@@ -1,0 +1,44 @@
+dt {
+  padding-left:20px;
+  background:no-repeat left center;
+}
+
+dt.email    { background-image: url(../images/komodo-icons/email_16.png); }
+dt.twitter  { background-image: url(../images/komodo-icons/twitter_16.png); }
+dt.blog     { background-image: url(../images/komodo-icons/rss_16.png); }
+dt.openid   { background-image: url(../images/komodo-icons/openid_16.png); }
+dt.facebook { background-image: url(../images/komodo-icons/facebook_16.png); }
+dt.linkedin { background-image: url(../images/komodo-icons/linkedin_16.png); }
+dt.gvoice   { background-image: url(../images/komodo-icons/google_voice_16.png); }
+dt.gtalk    { background-image: url(../images/komodo-icons/googletalk_16.png); }
+dt.aim    { background-image: url(../images/komodo-icons/aim_16.png); }
+dt.msn    { background-image: url(../images/komodo-icons/windows_16.png); }
+dt.yahoo    { background-image: url(../images/komodo-icons/yahoo_16.png); }
+dt.delicious    { background-image: url(../images/komodo-icons/delicious_16.png); }
+dt.flickr    { background-image: url(../images/komodo-icons/flickr_16.png); }
+dt.lastfm    { background-image: url(../images/komodo-icons/lastfm_16.png); }
+dt.pandora    { background-image: url(../images/komodo-icons/pandora_16.png); }
+dt.github    { background-image: url(../images/komodo-icons/github_16.png); }
+dt.brightkite    { background-image: url(../images/komodo-icons/brightkite_16.png); }
+dt.wishlistr    { background-image: url(../images/komodo-icons/wishlistr_16.png); }
+dt.claimid    { background-image: url(../images/komodo-icons/claimid_16.png); }
+dt.chimp { background-image: url(../images/komodo-icons/chimp_16.png); }
+dt.friendfeed { background-image: url(../images/komodo-icons/friendfeed_16.png); }
+dt.plaxo { background-image: url(../images/komodo-icons/plaxo_16.png); }
+dt.getsatisfaction { background-image: url(../images/komodo-icons/getsatisfaction_16.png); }
+dt.disqus { background-image: url(../images/komodo-icons/disqus_16.png); }
+dt.greader { background-image: url(../images/komodo-icons/googlereader_16.png); }
+dt.gprofile { background-image: url(../images/komodo-icons/google_16.png); }
+dt.gwave { background-image: url(../images/komodo-icons/google_wave_16.png); }
+dt.technorati { background-image: url(../images/komodo-icons/technorati_16.png); }
+dt.userstyles { background-image: url(../images/komodo-icons/userstyles_16.png); }
+dt.threeam { background-image: url(../images/komodo-icons/threeam_16.png); }
+dt.netflix { background-image: url(../images/komodo-icons/netflix_16.png); }
+dt.jqmeetup { background-image: url(../images/komodo-icons/meetup_16.png); }
+dt.slideshare { background-image: url(../images/komodo-icons/slideshare_16.png); }
+dt.wordpress { background-image: url(../images/komodo-icons/wordpress_16.png); }
+dt.blogger { background-image: url(../images/komodo-icons/blogger_16.png); }
+dt.youtube { background-image: url(../images/komodo-icons/youtube_16.png); }
+dt.upcoming { background-image: url(../images/komodo-icons/upcoming_16.png); }
+dt.identica { background-image: url(../images/komodo-icons/identica_16.png); }
+dt.magnolia { background-image: url(../images/komodo-icons/magnolia_16.png); }
