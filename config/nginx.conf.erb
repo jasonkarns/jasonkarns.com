@@ -35,8 +35,9 @@ http {
 
     root /app/public;
 
+    location = /blog { return 301 $scheme://$host/blog/; }
     location /blog/ {
-      proxy_pass http://jasonkarns.wordpress.com;
+      proxy_pass https://jasonkarns.wordpress.com/;
     }
   }
 }
