@@ -1,0 +1,13 @@
+{
+  "root": "public",
+  "proxies": {
+    "/blog/": {
+      "origin": "https://jasonkarns.wordpress.com/"
+    }
+  },
+  "redirects": {
+    "/blog": {
+      "url": "/blog/"
+    }
+  }
+}
